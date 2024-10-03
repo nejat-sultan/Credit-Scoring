@@ -1,1 +1,1 @@
-# Credit-Scoring
+# Project documentation 
